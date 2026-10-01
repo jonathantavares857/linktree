@@ -1,0 +1,25 @@
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    }
+
+    body {
+        background-color: red;
+        font-family: 'Trebuchet MS';
+        color: white;
+        text-align: center;
+    }
+
+    a{
+        background-color: black;
+        font-size: 20px;
+        border-radius: 10px;
+        padding: 10px;
+        display: block;
+        text-align: center;
+        margin: 10px;
+        color: slateblue;
+        margin: 10px;
+    }
+
